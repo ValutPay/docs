@@ -29,9 +29,3 @@
 * [Frequently Asked Questions](faq-support/faq.md)
 * [Troubleshooting](faq-support/troubleshooting.md)
 * [Contact Support](faq-support/contact-support.md)
-
-## Legal
-
-* [Terms of Service](legal/terms-of-service.md)
-* [Privacy Policy](legal/privacy-policy.md)
-* [Fee Structure](legal/fee-structure.md)
