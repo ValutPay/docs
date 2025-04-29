@@ -27,5 +27,5 @@
 ## FAQ & Support
 
 * [Frequently Asked Questions](faq-support/faq.md)
-* [Troubleshooting](faq-support/troubleshooting.md)
-* [Contact Support](faq-support/contact-support.md)
+* [Troubleshooting](faq-and-support/troubleshooting.md)
+* [Contact Support](faq-and-support/contact-support.md)
