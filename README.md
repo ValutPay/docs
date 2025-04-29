@@ -15,15 +15,15 @@ Valut bridges the gap between your cryptocurrency wallet and India's UPI payment
 
 <div class="grid cards" markdown>
 
-- :qrcode: **Scan**
+- 📱 **Scan**
   
   Open Valut & scan any UPI QR code
 
-- :currency_exchange: **Select**
+- 📊 **Select**
   
   Choose which cryptocurrency you want to use
 
-- :zap: **Pay**
+- 🚀 **Pay**
   
   Complete the payment instantly
 
@@ -40,5 +40,5 @@ Valut bridges the gap between your cryptocurrency wallet and India's UPI payment
 
 Explore our documentation to learn more about Valut, how it works, and how to make your first crypto payment using UPI.
 
-[Get Started →](getting-started/introduction.md){ .md-button .md-button--primary }
-[Join Waitlist →](https://valut.app/waitlist){ .md-button }
+[Get Started →](getting-started/introduction.md)
+[Join Waitlist →](https://valut.app/waitlist)
