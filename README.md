@@ -1,11 +1,11 @@
 ---
-icon: zap
 description: Pay with crypto anywhere UPI is accepted in India
+icon: hand-wave
 ---
 
 # Welcome to Valut
 
-![Valut Logo](./assets/valut-logo.png)
+![](<.gitbook/assets/Valut logo 2.svg>)
 
 **Use Crypto to Pay with UPI Anywhere in India**
 
@@ -13,32 +13,25 @@ Valut bridges the gap between your cryptocurrency wallet and India's UPI payment
 
 ## One Simple Flow: Scan, Select, Pay
 
-<div class="grid cards" markdown>
+*   📱 **Scan**
 
-- 📱 **Scan**
-  
-  Open Valut & scan any UPI QR code
+    Open Valut & scan any UPI QR code
+*   📊 **Select**
 
-- 📊 **Select**
-  
-  Choose which cryptocurrency you want to use
+    Choose which cryptocurrency you want to use
+*   🚀 **Pay**
 
-- 🚀 **Pay**
-  
-  Complete the payment instantly
-
-</div>
+    Complete the payment instantly
 
 ## Key Benefits
 
-- **Real-World Utility** - Works with existing UPI infrastructure
-- **Seamless Integration** - No waiting for confirmations or transfers
-- **Instant Settlement** - Merchant receives INR immediately
-- **Transparent Pricing** - 2% fixed fee on every transaction
+* **Real-World Utility** - Works with existing UPI infrastructure
+* **Seamless Integration** - No waiting for confirmations or transfers
+* **Instant Settlement** - Merchant receives INR immediately
+* **Transparent Pricing** - 2% fixed fee on every transaction
 
 ## Get Started
 
 Explore our documentation to learn more about Valut, how it works, and how to make your first crypto payment using UPI.
 
-[Get Started →](getting-started/introduction.md)
-[Join Waitlist →](https://valut.app/waitlist)
+[Get Started →](getting-started/introduction.md)[Join Waitlist →](https://valut.app/waitlist)
